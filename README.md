@@ -39,4 +39,6 @@ The provided dataset consists of three sheets: `orders`, `customers`, and `produ
 ## Some Insights from the Analysis
 Here are some Photos from the analysis :
 
-![alt text](./Graphs/SalesOverTime.jpg)
+![Total Sales Over Time](./Graphs/SalesOverTime.jpg)
+![Sales By Country](./Graphs/SalesByCountry.jpg)
+![Top 5 Customers](./Graphs/Picture3.jpg)
