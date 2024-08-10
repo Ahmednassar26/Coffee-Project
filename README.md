@@ -39,4 +39,4 @@ The provided dataset consists of three sheets: `orders`, `customers`, and `produ
 ## Some Insights from the Analysis
 Here are some Photos from the analysis :
 
-![Sales Over Time Analysis Graph](https://github.com/Ahmednassar26/Coffee-Project/Graphs/main/SalesOverTime.jpg?raw=true)
+![alt text](./Graphs/SalesOverTime.jpg)
